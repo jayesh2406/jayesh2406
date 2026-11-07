@@ -1,52 +1,59 @@
 # Hi, I'm Jayesh Gothwal 👋
 
-**AI/ML Engineer • GenAI Developer • Full-Stack Developer**
+**AI/ML • Generative AI • Full-Stack Development**
 
-I'm a Computer Science (Data Science) undergraduate at UPES, Dehradun (2023–2027), building practical applications across machine learning, generative AI, data analytics, and web development.
+I'm a Computer Science (Data Science) undergraduate at **UPES, Dehradun (2023–2027)**. I enjoy building practical software across machine learning, generative AI, data analytics, and web development.
 
-- 🔭 Exploring **Generative AI, agentic workflows, machine learning, and full-stack engineering**
-- 🧠 Interested in turning data and AI research into useful products
-- 💻 Working with Python, JavaScript/TypeScript, React, Next.js, FastAPI, and modern ML tooling
-- 🤝 Open to internships, entry-level opportunities, and collaborative projects
+- Exploring **LLMs, RAG, agentic AI, machine learning, and backend development**
+- Building responsive web applications and AI-powered prototypes
+- Interested in internships, early-career roles, and collaborative engineering projects
 
-## Tech Stack
+## Technical Skills
 
-**Languages:** Python · Java · C/C++ · JavaScript · TypeScript · SQL · R
+| Area | Technologies |
+|---|---|
+| Languages | Python, Java, C/C++, JavaScript, TypeScript, R, SQL |
+| AI / ML | Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, PyTorch, NLP, Deep Learning |
+| GenAI | Transformers, LangChain, LangGraph, RAG, Qdrant, LLM APIs |
+| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, NestJS, FastAPI, REST APIs |
+| Data & Tools | Power BI, Power Query, DAX, Excel, MongoDB, Git, GitHub |
 
-**AI / ML:** Pandas · NumPy · Scikit-learn · XGBoost · LightGBM · PyTorch · NLP · Deep Learning
+## Selected Development Work
 
-**GenAI:** Transformers · LangChain · LangGraph · RAG · Qdrant · LLM APIs
+### Public repository
+- **[Project Workspace](https://github.com/jayesh2406/project_workspace)** — React + Vite multi-page business website with home, services, fleet, product/shop, and contact experiences. The source is currently nested under `project_workspace/project_workspace/`.
 
-**Web / Backend:** React · Next.js · HTML · CSS · Tailwind CSS · Node.js · NestJS · FastAPI · REST APIs
+### Projects in private repositories
+These repositories are currently private, so their source code is not visible to public profile visitors.
 
-**Data / Tools:** Power BI · Power Query · DAX · Excel · Git · GitHub · MongoDB
+- **BASIL** — Premium men's wear brand website built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. Includes collection pages, product galleries, responsive navigation, and SEO metadata.
+- **Dr Saheb & Associates** — Law-firm website built with Next.js and React, with practice-area pages, attorney profiles, blog pages, contact forms, FAQs, and video-led sections.
+- **CloudScale / Scalewise Cloud** — Interactive cloud-operations dashboard prototype with simulated server instances, CPU/memory/latency metrics, autoscaling behavior, alerts, and security-event monitoring. Metrics are simulated in the frontend, not connected to live cloud infrastructure.
 
-## Selected Work
+## AI / Data Projects
 
-### AI, Machine Learning & Data
-- **AI Interior Design & Cost Estimation** — An applied AI concept combining room-image understanding, wall segmentation, depth estimation, interior recommendations, and INR-based cost estimation.
-- **FORTE – AI-Powered Financial Analysis** — Financial-analysis project focused on using AI to make financial information easier to explore.
-- **Autonomous Data Pipeline & Analytics Engine** — Exploring an automated workflow for data processing and analytics.
-- **Multi-Agent Research System** — A research workflow with search, reading, writing, and critique agents.
-- **ML & Deep Learning Practice** — Classification projects including Iris, email spam, Fashion-MNIST, CIFAR-10, and a health predictor.
+The following project work has been discussed and developed as part of my learning and project work. Their source code is **not yet published in the repositories currently accessible on this account**.
 
-### Web Development
-- **BASIL** — Men's fashion e-commerce experience.
-- **Dr Saheb & Associates** — Law-firm website experience.
-- **The Signature Spaces** — Interior-design portfolio website.
-- **Scalewise Cloud** — Web application/dashboard project.
+- **AI Interior Design & Cost Estimation** — Room-image understanding concept combining wall segmentation, depth estimation, interior recommendations, and INR-based cost estimation.
+- **FORTE — AI-Powered Financial Analysis** — AI-assisted financial analysis project.
+- **Multi-Agent Research System** — Search, reader, writer, and critic workflow for research automation.
+- **Autonomous Data Pipeline & Analytics Engine** — Project focused on automating data processing and analytics.
+- **Machine Learning & Deep Learning Experiments** — Iris classification, email spam detection, Fashion-MNIST, CIFAR-10, and a health predictor.
 
-### Experience
-- **Viamigos — Web Development Intern** (June–July 2026)
+## Experience
 
-> Project descriptions above summarize work discussed in my portfolio planning. Individual implementations, demos, and source availability are linked from repositories when published.
+**Viamigos — Web Development Intern** · June–July 2026  
+Worked with a travel-tech startup. Internship work is not included here as a public source repository.
+
+## Current Focus
+
+Strengthening my skills in **Agentic AI, LangGraph, FastAPI, backend engineering, and production-ready ML applications**.
 
 ## Connect
 
 - GitHub: [@jayesh2406](https://github.com/jayesh2406)
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
-- Portfolio: [Add your portfolio URL](https://)
 
 ---
 
-*Always learning, building, and improving.*
+*Learn continuously. Build thoughtfully. Improve with every iteration.*
