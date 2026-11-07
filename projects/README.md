@@ -14,7 +14,7 @@ A curated index of selected web-development, AI/ML, Generative AI, and data proj
 
 ### 2. BASIL — Premium Men's Wear Brand Website
 
-- **Live demo:** Link to be added.
+- **Live demo:** [basil-eta.vercel.app](https://basil-eta.vercel.app/)
 - **Stack:** Next.js 15, React 19, TypeScript, Tailwind CSS, Framer Motion
 - **Highlights:** Brand-led homepage, animated hero slider, collections, category-specific product galleries, About and Contact pages, reusable UI components, and SEO metadata.
 - **Source:** Kept in a private repository.
