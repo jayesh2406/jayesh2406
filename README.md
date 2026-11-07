@@ -21,8 +21,8 @@ I'm a Computer Science (Data Science) undergraduate at **UPES, Dehradun (2023–
 
 ## Featured Work
 
+- **[BASIL — Premium Men's Wear Website](https://basil-eta.vercel.app/)** — Live brand website built with Next.js, React, TypeScript, Tailwind CSS, and Framer Motion. [Project details](https://github.com/jayesh2406/jayesh2406/blob/main/projects/README.md#2-basil--premium-mens-wear-brand-website); source code remains private.
 - **[Dr Saheb & Associates](https://drsaheb-law-firm.vercel.app/)** — Live law-firm website demo. [Public project showcase](https://github.com/jayesh2406/-drsaheb-law-firm); source code remains private.
-- **BASIL** — Premium men's wear brand website built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. Source code remains private; live demo link will be added.
 - **CloudScale** — Interactive cloud-operations dashboard prototype with simulated infrastructure metrics, autoscaling behavior, alerts, and security-event UI. Source code remains private.
 - **[Project Workspace](https://github.com/jayesh2406/project_workspace)** — React + Vite multi-page business website; repository needs cleanup before being featured as a polished code sample.
 - **AI / ML / GenAI work** — AI Interior Design & Cost Estimation, FORTE Financial Analysis, Multi-Agent Research System, and ML/DL experiments.
